@@ -4,7 +4,7 @@ import scala.collection.immutable.HashMap
  * Created by weizy on 2017/5/9.
  */
 object CommonUsage {
-  // ÅĞ¶Ï×Ö·ûÊÇ·ñ´æÔÚ´óĞ´
+  //
  // val nameHasUpperCase = name.exists(_.isUpperCase)
 
   val x:HashMap[Int, String] = new HashMap[Int, String]()
